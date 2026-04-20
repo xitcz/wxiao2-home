@@ -107,5 +107,4 @@ if (!import.meta.env.VITE_CONFIG_TURN || import.meta.env.VITE_CONFIG_TURN != "tr
     });
 } else {
     mountApp();
-  };
 };
